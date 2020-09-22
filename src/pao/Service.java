@@ -158,6 +158,7 @@ public class Service {
 		   if (legatura.getPlecare().getNume().equals(plecare))
 			   legatura.viewLegatura();
 	   }
+	   log("veziLegaturiExistente");
    }
    
    
